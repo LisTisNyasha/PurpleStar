@@ -1,12 +1,23 @@
 # PurpleStar
 Russian SMS-Bomber
+TERMUX:
 
 pkg update
+
 pkg upgrade
+
+pkg install git
+
 pkg install python2
-pip install --upgrade pip
-pip install colorama
-pip install requests
+
+pip3 install --upgrade pip
+
+pip3 install requests
+
+pip3 install colorama
+
 git clone https://github.com/LisTisNyasha/PurpleStar
+
 cd PurpleStar
+
 python2 PurpleStar.py

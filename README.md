@@ -1,5 +1,5 @@
 # PurpleStar
-Russian SMS-Bomber
+PurpleStar SMS-Bomber v1.0.1
 TERMUX:
 
 pkg update
